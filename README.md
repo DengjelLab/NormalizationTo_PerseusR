@@ -15,5 +15,5 @@ Add "mean" and/or "median" as additional argument in Perseus software.
   <img src="/assets/norm_2.png"/>
 </p>
 
-Beside a normalization to the mean or median, a sum normalization is possible (useful for TMT experiments, only meaningful in linear data scale) and normalization to a specific protein.
+Beside a normalization to the mean or median, a sum normalization is available (useful for TMT experiments, only meaningful in linear data scale) and normalization to a specific protein.
 
